@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+
+
+{% block loginblock %}
+       
+
+
+<form method="post">
+{% csrf_token %}
+<label for="Email">Email :</label>
+<input type="email" name="email" id=""><br>
+
+<label for="Password">Password :</label>
+<input type="password" name="pass" id=""><br>
+
+
+
+<input type="submit" value="login">
+</form>
+
+{# Assumes you setup the password_reset view in your URLconf #}
+<p><a href="{% url 'forgot' %}">Lost password?</a></p>
+
+{% endblock loginblock %}

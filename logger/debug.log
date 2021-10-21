@@ -1,0 +1,961 @@
+INFO 2021-10-20 21:31:37,900 autoreload 18532 11200 Watching for file changes with StatReloader
+INFO 2021-10-20 21:31:47,468 basehttp 18532 12560 "GET /change_password/309d8e44-5557-45b0-860b-774419bc9534/ HTTP/1.1" 200 2890
+INFO 2021-10-20 21:31:59,203 basehttp 18532 17608 "POST /change_password/309d8e44-5557-45b0-860b-774419bc9534/ HTTP/1.1" 200 2933
+INFO 2021-10-20 21:32:18,958 autoreload 18532 11200 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:32:20,428 autoreload 15492 1032 Watching for file changes with StatReloader
+INFO 2021-10-20 21:32:22,139 autoreload 15492 1032 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:32:23,793 autoreload 13140 14308 Watching for file changes with StatReloader
+INFO 2021-10-20 21:32:26,429 autoreload 13140 14308 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:32:28,298 autoreload 6632 16252 Watching for file changes with StatReloader
+INFO 2021-10-20 21:32:29,825 autoreload 6632 16252 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:32:31,045 autoreload 1508 968 Watching for file changes with StatReloader
+INFO 2021-10-20 21:32:35,630 basehttp 1508 11008 "GET /change_password/309d8e44-5557-45b0-860b-774419bc9534/ HTTP/1.1" 200 2890
+INFO 2021-10-20 21:32:43,353 views 1508 10052 Passwords did not match
+INFO 2021-10-20 21:32:43,359 basehttp 1508 10052 "POST /change_password/309d8e44-5557-45b0-860b-774419bc9534/ HTTP/1.1" 200 2933
+INFO 2021-10-20 21:32:57,463 autoreload 1508 968 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:32:58,698 autoreload 14028 17548 Watching for file changes with StatReloader
+INFO 2021-10-20 21:33:05,349 autoreload 14028 17548 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:33:07,073 autoreload 1472 1500 Watching for file changes with StatReloader
+INFO 2021-10-20 21:33:09,640 autoreload 1472 1500 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:33:10,854 autoreload 12736 17724 Watching for file changes with StatReloader
+INFO 2021-10-20 21:33:12,511 autoreload 12736 17724 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:33:13,737 autoreload 7728 8740 Watching for file changes with StatReloader
+INFO 2021-10-20 21:33:15,306 autoreload 7728 8740 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:33:16,879 autoreload 976 8212 Watching for file changes with StatReloader
+INFO 2021-10-20 21:33:28,662 autoreload 976 8212 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:33:29,744 autoreload 11612 14292 Watching for file changes with StatReloader
+INFO 2021-10-20 21:33:57,869 autoreload 11612 14292 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:33:58,922 autoreload 1432 6656 Watching for file changes with StatReloader
+INFO 2021-10-20 21:34:02,173 basehttp 1432 15688 "GET /change_password/309d8e44-5557-45b0-860b-774419bc9534/ HTTP/1.1" 200 2890
+INFO 2021-10-20 21:34:14,722 views 1432 19032 Password Length Must Be 8
+INFO 2021-10-20 21:34:14,723 views 1432 19032 Passwords did not match
+INFO 2021-10-20 21:34:14,737 basehttp 1432 19032 "POST /change_password/309d8e44-5557-45b0-860b-774419bc9534/ HTTP/1.1" 200 2933
+INFO 2021-10-20 21:34:21,073 basehttp 1432 19032 "GET /change_password/309d8e44-5557-45b0-860b-774419bc9534/ HTTP/1.1" 200 2890
+INFO 2021-10-20 21:34:26,431 views 1432 12204 Password Length Must Be 8
+INFO 2021-10-20 21:34:26,431 views 1432 12204 Passwords did not match
+INFO 2021-10-20 21:34:26,438 basehttp 1432 12204 "POST /change_password/309d8e44-5557-45b0-860b-774419bc9534/ HTTP/1.1" 200 2933
+INFO 2021-10-20 21:34:36,865 autoreload 1432 6656 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:34:37,926 autoreload 12276 17700 Watching for file changes with StatReloader
+INFO 2021-10-20 21:34:44,854 basehttp 12276 17524 "GET /change_password/309d8e44-5557-45b0-860b-774419bc9534/ HTTP/1.1" 200 2890
+INFO 2021-10-20 21:34:50,002 views 12276 17524 Password Length Must Be 8
+INFO 2021-10-20 21:34:50,011 basehttp 12276 17524 "POST /change_password/309d8e44-5557-45b0-860b-774419bc9534/ HTTP/1.1" 200 2932
+INFO 2021-10-20 21:35:18,554 autoreload 12276 17700 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:35:19,721 autoreload 6312 1364 Watching for file changes with StatReloader
+INFO 2021-10-20 21:35:44,835 autoreload 6312 1364 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:35:46,009 autoreload 5692 8748 Watching for file changes with StatReloader
+INFO 2021-10-20 21:35:57,732 autoreload 5692 8748 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:35:58,891 autoreload 15532 16656 Watching for file changes with StatReloader
+INFO 2021-10-20 21:36:16,880 basehttp 15532 18596 "GET /change_password/309d8e44-5557-45b0-860b-774419bc9534/ HTTP/1.1" 200 2890
+INFO 2021-10-20 21:36:29,984 basehttp 15532 13144 "POST /change_password/309d8e44-5557-45b0-860b-774419bc9534/ HTTP/1.1" 200 2887
+INFO 2021-10-20 21:36:55,542 basehttp 15532 5108 "GET /login/ HTTP/1.1" 200 2741
+ERROR 2021-10-20 21:37:01,251 views 15532 1496 Login error
+INFO 2021-10-20 21:37:01,263 basehttp 15532 1496 "POST /login/ HTTP/1.1" 200 46
+INFO 2021-10-20 21:37:02,524 basehttp 15532 1496 "GET /login/ HTTP/1.1" 200 2741
+INFO 2021-10-20 21:37:08,640 views 15532 16700 User logged in
+INFO 2021-10-20 21:37:08,653 basehttp 15532 16700 "POST /login/ HTTP/1.1" 302 0
+INFO 2021-10-20 21:37:08,686 basehttp 15532 16700 "GET / HTTP/1.1" 200 2389
+INFO 2021-10-20 21:38:11,954 autoreload 15532 16656 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:38:13,100 autoreload 8912 2468 Watching for file changes with StatReloader
+INFO 2021-10-20 21:38:15,517 basehttp 8912 16200 "GET /change_password/309d8e44-5557-45b0-860b-774419bc9534/ HTTP/1.1" 200 2890
+ERROR 2021-10-20 21:38:23,098 views 8912 10036 Wrong URL
+WARNING 2021-10-20 21:38:23,108 log 8912 10036 Not Found: /change_password/309d8e44-50-860b-774419bc9534/
+WARNING 2021-10-20 21:38:23,109 basehttp 8912 10036 "GET /change_password/309d8e44-50-860b-774419bc9534/ HTTP/1.1" 404 3236
+INFO 2021-10-20 21:38:30,356 basehttp 8912 6480 "GET /change_password/309d8e44-5557-45b0-860b-774419bc9534/ HTTP/1.1" 200 2890
+INFO 2021-10-20 21:38:44,096 basehttp 8912 2068 "POST /change_password/309d8e44-5557-45b0-860b-774419bc9534/ HTTP/1.1" 200 2887
+INFO 2021-10-20 21:39:01,789 basehttp 8912 11580 "GET /login/ HTTP/1.1" 200 2741
+INFO 2021-10-20 21:40:16,304 autoreload 8912 2468 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:40:17,839 autoreload 11052 15256 Watching for file changes with StatReloader
+INFO 2021-10-20 21:40:53,551 autoreload 11052 15256 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:40:54,693 autoreload 16748 18624 Watching for file changes with StatReloader
+INFO 2021-10-20 21:40:56,393 autoreload 16748 18624 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:40:57,639 autoreload 14404 7668 Watching for file changes with StatReloader
+INFO 2021-10-20 21:41:01,293 autoreload 14404 7668 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:41:02,414 autoreload 15892 15196 Watching for file changes with StatReloader
+INFO 2021-10-20 21:41:16,420 autoreload 15892 15196 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:41:18,376 autoreload 5640 3656 Watching for file changes with StatReloader
+INFO 2021-10-20 21:41:48,739 autoreload 5640 3656 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:41:50,125 autoreload 11328 8932 Watching for file changes with StatReloader
+INFO 2021-10-20 21:42:16,224 autoreload 11328 8932 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:42:17,359 autoreload 8360 14448 Watching for file changes with StatReloader
+INFO 2021-10-20 21:43:53,604 autoreload 8360 14448 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:43:54,752 autoreload 7520 15948 Watching for file changes with StatReloader
+INFO 2021-10-20 21:43:59,323 autoreload 7520 15948 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:44:01,096 autoreload 15040 19444 Watching for file changes with StatReloader
+INFO 2021-10-20 21:44:11,840 autoreload 15040 19444 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:44:12,879 autoreload 18956 17036 Watching for file changes with StatReloader
+INFO 2021-10-20 21:44:19,413 autoreload 18956 17036 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:44:20,492 autoreload 9660 16020 Watching for file changes with StatReloader
+INFO 2021-10-20 21:44:43,037 basehttp 9660 17532 "GET / HTTP/1.1" 200 2333
+INFO 2021-10-20 21:44:51,268 basehttp 9660 13708 "GET /change_password/309d8e44-5557-45b0-860b-774419bc9534/ HTTP/1.1" 302 0
+INFO 2021-10-20 21:44:51,282 basehttp 9660 13708 "GET /login/?next=/change_password/309d8e44-5557-45b0-860b-774419bc9534/ HTTP/1.1" 200 2741
+INFO 2021-10-20 21:44:57,187 views 9660 12364 User logged in
+INFO 2021-10-20 21:44:57,206 basehttp 9660 12364 "POST /login/?next=/change_password/309d8e44-5557-45b0-860b-774419bc9534/ HTTP/1.1" 302 0
+INFO 2021-10-20 21:44:57,232 basehttp 9660 12364 "GET / HTTP/1.1" 200 2389
+INFO 2021-10-20 21:44:58,627 basehttp 9660 12364 "GET /change_password/309d8e44-5557-45b0-860b-774419bc9534/ HTTP/1.1" 200 2890
+INFO 2021-10-20 21:45:01,231 views 9660 12364 User logged Out
+INFO 2021-10-20 21:45:01,232 basehttp 9660 12364 "GET /logout/ HTTP/1.1" 302 0
+INFO 2021-10-20 21:45:01,242 basehttp 9660 12364 "GET / HTTP/1.1" 200 2333
+INFO 2021-10-20 21:45:02,439 basehttp 9660 12364 "GET / HTTP/1.1" 200 2333
+INFO 2021-10-20 21:45:28,113 basehttp 9660 14916 "GET /login/ HTTP/1.1" 200 2741
+INFO 2021-10-20 21:45:29,742 views 9660 14916 User logged in
+INFO 2021-10-20 21:45:29,749 basehttp 9660 14916 "POST /login/ HTTP/1.1" 302 0
+INFO 2021-10-20 21:45:29,774 basehttp 9660 14916 "GET / HTTP/1.1" 200 2389
+INFO 2021-10-20 21:45:31,580 basehttp 9660 14916 "GET /change_password/309d8e44-5557-45b0-860b-774419bc9534/ HTTP/1.1" 200 2890
+INFO 2021-10-20 21:45:41,726 basehttp 9660 9264 "POST /change_password/309d8e44-5557-45b0-860b-774419bc9534/ HTTP/1.1" 200 2943
+INFO 2021-10-20 21:45:53,179 basehttp 9660 15864 "GET / HTTP/1.1" 200 2333
+INFO 2021-10-20 21:46:11,045 autoreload 9660 16020 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:46:12,372 autoreload 16596 1212 Watching for file changes with StatReloader
+INFO 2021-10-20 21:46:13,895 autoreload 16596 1212 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:46:15,048 autoreload 15692 7364 Watching for file changes with StatReloader
+INFO 2021-10-20 21:46:16,621 autoreload 15692 7364 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:46:17,799 autoreload 4444 6948 Watching for file changes with StatReloader
+INFO 2021-10-20 21:46:20,130 basehttp 4444 18492 "GET / HTTP/1.1" 200 2333
+INFO 2021-10-20 21:46:21,319 basehttp 4444 18492 "GET /login/ HTTP/1.1" 200 2741
+INFO 2021-10-20 21:46:22,543 views 4444 18492 User logged in
+INFO 2021-10-20 21:46:22,553 basehttp 4444 18492 "POST /login/ HTTP/1.1" 302 0
+INFO 2021-10-20 21:46:22,581 basehttp 4444 18492 "GET / HTTP/1.1" 200 2389
+INFO 2021-10-20 21:46:29,839 basehttp 4444 2960 "GET /change_password/309d8e44-5557-45b0-860b-774419bc9534/ HTTP/1.1" 200 2890
+INFO 2021-10-20 21:46:40,026 basehttp 4444 5824 "POST /change_password/309d8e44-5557-45b0-860b-774419bc9534/ HTTP/1.1" 302 0
+INFO 2021-10-20 21:46:40,081 basehttp 4444 5824 "GET /login/ HTTP/1.1" 200 2741
+INFO 2021-10-20 21:46:52,399 views 4444 16908 User logged in
+INFO 2021-10-20 21:46:52,407 basehttp 4444 16908 "POST /login/ HTTP/1.1" 302 0
+INFO 2021-10-20 21:46:52,434 basehttp 4444 16908 "GET / HTTP/1.1" 200 2389
+INFO 2021-10-20 21:46:53,823 basehttp 4444 16908 "GET / HTTP/1.1" 200 2389
+INFO 2021-10-20 21:47:07,932 autoreload 4444 6948 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:47:09,070 autoreload 15232 13700 Watching for file changes with StatReloader
+INFO 2021-10-20 21:47:52,816 autoreload 15232 13700 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:47:53,904 autoreload 2128 624 Watching for file changes with StatReloader
+INFO 2021-10-20 21:47:56,349 views 2128 15552 User logged Out
+INFO 2021-10-20 21:47:56,354 basehttp 2128 15552 "GET /logout/ HTTP/1.1" 302 0
+INFO 2021-10-20 21:47:56,370 basehttp 2128 15552 "GET / HTTP/1.1" 200 2333
+INFO 2021-10-20 21:47:59,741 basehttp 2128 15736 "GET /change_password/309d8e44-5557-45b0-860b-774419bc9534/ HTTP/1.1" 302 0
+INFO 2021-10-20 21:47:59,751 basehttp 2128 15736 "GET /login/?redirect_to=/change_password/309d8e44-5557-45b0-860b-774419bc9534/ HTTP/1.1" 200 2741
+INFO 2021-10-20 21:48:01,740 views 2128 15736 User logged in
+INFO 2021-10-20 21:48:01,750 basehttp 2128 15736 "POST /login/?redirect_to=/change_password/309d8e44-5557-45b0-860b-774419bc9534/ HTTP/1.1" 302 0
+INFO 2021-10-20 21:48:01,776 basehttp 2128 15736 "GET / HTTP/1.1" 200 2389
+INFO 2021-10-20 21:48:09,104 autoreload 2128 624 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:48:10,239 autoreload 17084 18312 Watching for file changes with StatReloader
+INFO 2021-10-20 21:48:19,900 autoreload 17084 18312 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:48:21,501 autoreload 7976 352 Watching for file changes with StatReloader
+INFO 2021-10-20 21:48:30,313 autoreload 7976 352 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:48:32,052 autoreload 15872 13840 Watching for file changes with StatReloader
+INFO 2021-10-20 21:48:33,317 autoreload 15872 13840 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:48:34,469 autoreload 16456 6008 Watching for file changes with StatReloader
+INFO 2021-10-20 21:48:37,823 autoreload 16456 6008 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:48:39,441 autoreload 9336 1860 Watching for file changes with StatReloader
+INFO 2021-10-20 21:48:43,781 autoreload 9336 1860 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:48:45,530 autoreload 14308 12924 Watching for file changes with StatReloader
+INFO 2021-10-20 21:48:51,111 autoreload 14308 12924 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:48:52,325 autoreload 832 14648 Watching for file changes with StatReloader
+INFO 2021-10-20 21:48:59,814 autoreload 832 14648 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:49:00,966 autoreload 13760 13056 Watching for file changes with StatReloader
+INFO 2021-10-20 21:49:06,359 autoreload 13760 13056 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:49:07,501 autoreload 17220 18512 Watching for file changes with StatReloader
+INFO 2021-10-20 21:49:16,407 autoreload 17220 18512 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:49:17,469 autoreload 8064 17208 Watching for file changes with StatReloader
+INFO 2021-10-20 21:50:57,632 autoreload 8064 17208 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:50:59,118 autoreload 18984 14500 Watching for file changes with StatReloader
+INFO 2021-10-20 21:53:32,651 autoreload 18984 14500 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:53:34,279 autoreload 18152 11516 Watching for file changes with StatReloader
+INFO 2021-10-20 21:53:36,577 autoreload 18152 11516 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:53:37,703 autoreload 14780 6880 Watching for file changes with StatReloader
+INFO 2021-10-20 21:53:38,919 autoreload 14780 6880 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:53:39,940 autoreload 10808 8976 Watching for file changes with StatReloader
+INFO 2021-10-20 21:53:52,503 autoreload 10808 8976 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:53:53,868 autoreload 6260 16516 Watching for file changes with StatReloader
+INFO 2021-10-20 21:59:21,250 autoreload 6260 16516 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 21:59:22,353 autoreload 18972 11740 Watching for file changes with StatReloader
+INFO 2021-10-20 21:59:37,224 autoreload 18972 11740 C:\MY DRIVE\Celebal\Task6\Web_app\urls.py changed, reloading.
+INFO 2021-10-20 21:59:38,199 autoreload 548 11280 Watching for file changes with StatReloader
+INFO 2021-10-20 21:59:40,473 autoreload 548 11280 C:\MY DRIVE\Celebal\Task6\Web_app\urls.py changed, reloading.
+INFO 2021-10-20 21:59:41,504 autoreload 17856 9204 Watching for file changes with StatReloader
+INFO 2021-10-20 21:59:42,772 autoreload 17856 9204 C:\MY DRIVE\Celebal\Task6\Web_app\urls.py changed, reloading.
+INFO 2021-10-20 21:59:44,271 autoreload 1900 7768 Watching for file changes with StatReloader
+INFO 2021-10-20 21:59:46,627 autoreload 1900 7768 C:\MY DRIVE\Celebal\Task6\Web_app\urls.py changed, reloading.
+INFO 2021-10-20 21:59:47,671 autoreload 3584 10460 Watching for file changes with StatReloader
+INFO 2021-10-20 21:59:48,920 autoreload 3584 10460 C:\MY DRIVE\Celebal\Task6\Web_app\urls.py changed, reloading.
+INFO 2021-10-20 21:59:49,938 autoreload 18724 5948 Watching for file changes with StatReloader
+INFO 2021-10-20 21:59:51,260 autoreload 18724 5948 C:\MY DRIVE\Celebal\Task6\Web_app\urls.py changed, reloading.
+INFO 2021-10-20 21:59:52,224 autoreload 13656 17680 Watching for file changes with StatReloader
+INFO 2021-10-20 22:00:15,538 basehttp 13656 7912 "GET / HTTP/1.1" 200 2389
+INFO 2021-10-20 22:00:16,608 views 13656 7912 User logged Out
+INFO 2021-10-20 22:00:16,609 basehttp 13656 7912 "GET /logout/ HTTP/1.1" 302 0
+INFO 2021-10-20 22:00:16,619 basehttp 13656 7912 "GET / HTTP/1.1" 200 2333
+INFO 2021-10-20 22:00:22,362 basehttp 13656 14520 "GET /login/ HTTP/1.1" 200 2757
+INFO 2021-10-20 22:00:24,240 basehttp 13656 14520 "GET /forgot_password HTTP/1.1" 200 2714
+INFO 2021-10-20 22:01:38,709 autoreload 13656 17680 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:01:39,733 autoreload 12328 2196 Watching for file changes with StatReloader
+INFO 2021-10-20 22:01:53,429 autoreload 12328 2196 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:01:55,078 autoreload 4160 1996 Watching for file changes with StatReloader
+INFO 2021-10-20 22:02:39,378 autoreload 4160 1996 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:02:40,783 autoreload 13764 8520 Watching for file changes with StatReloader
+INFO 2021-10-20 22:02:42,010 autoreload 13764 8520 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:02:43,128 autoreload 16996 13968 Watching for file changes with StatReloader
+INFO 2021-10-20 22:02:44,392 autoreload 16996 13968 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:02:45,643 autoreload 3012 12728 Watching for file changes with StatReloader
+INFO 2021-10-20 22:02:48,049 autoreload 3012 12728 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:02:49,393 autoreload 6624 18152 Watching for file changes with StatReloader
+INFO 2021-10-20 22:02:53,730 autoreload 6624 18152 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:02:54,787 autoreload 4384 11740 Watching for file changes with StatReloader
+INFO 2021-10-20 22:02:58,051 autoreload 4384 11740 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:02:59,048 autoreload 14308 12996 Watching for file changes with StatReloader
+INFO 2021-10-20 22:03:03,332 autoreload 14308 12996 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:03:04,314 autoreload 12600 15512 Watching for file changes with StatReloader
+INFO 2021-10-20 22:03:10,660 autoreload 12600 15512 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:03:11,610 autoreload 12668 19208 Watching for file changes with StatReloader
+INFO 2021-10-20 22:03:16,048 autoreload 12668 19208 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:03:17,188 autoreload 16036 16424 Watching for file changes with StatReloader
+INFO 2021-10-20 22:03:19,511 autoreload 16036 16424 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:03:20,496 autoreload 18856 4028 Watching for file changes with StatReloader
+INFO 2021-10-20 22:03:24,772 autoreload 18856 4028 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:03:26,429 autoreload 15224 17620 Watching for file changes with StatReloader
+INFO 2021-10-20 22:03:50,436 autoreload 15224 17620 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:03:51,354 autoreload 13768 16008 Watching for file changes with StatReloader
+INFO 2021-10-20 22:03:56,647 autoreload 13768 16008 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:03:58,009 autoreload 17392 13288 Watching for file changes with StatReloader
+INFO 2021-10-20 22:04:00,257 autoreload 17392 13288 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:04:01,258 autoreload 17744 10736 Watching for file changes with StatReloader
+INFO 2021-10-20 22:04:07,740 autoreload 17744 10736 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:04:08,803 autoreload 13980 9724 Watching for file changes with StatReloader
+INFO 2021-10-20 22:04:11,311 autoreload 13980 9724 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:04:12,378 autoreload 15312 6104 Watching for file changes with StatReloader
+INFO 2021-10-20 22:04:14,990 autoreload 15312 6104 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:04:16,665 autoreload 13748 10684 Watching for file changes with StatReloader
+INFO 2021-10-20 22:04:18,270 autoreload 13748 10684 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:04:19,226 autoreload 11008 11820 Watching for file changes with StatReloader
+INFO 2021-10-20 22:04:22,750 autoreload 11008 11820 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:04:23,951 autoreload 14144 7728 Watching for file changes with StatReloader
+INFO 2021-10-20 22:04:25,398 autoreload 14144 7728 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:04:26,468 autoreload 15520 18632 Watching for file changes with StatReloader
+INFO 2021-10-20 22:04:34,954 autoreload 15520 18632 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:04:36,168 autoreload 11676 14500 Watching for file changes with StatReloader
+INFO 2021-10-20 22:04:37,713 autoreload 11676 14500 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:04:38,835 autoreload 9908 17732 Watching for file changes with StatReloader
+INFO 2021-10-20 22:04:59,774 autoreload 9908 17732 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:05:00,808 autoreload 14060 10976 Watching for file changes with StatReloader
+INFO 2021-10-20 22:05:08,399 autoreload 14060 10976 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:05:09,834 autoreload 6528 12844 Watching for file changes with StatReloader
+INFO 2021-10-20 22:05:14,512 autoreload 6528 12844 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:05:15,677 autoreload 2816 5320 Watching for file changes with StatReloader
+INFO 2021-10-20 22:05:21,212 autoreload 2816 5320 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:05:22,607 autoreload 8956 11624 Watching for file changes with StatReloader
+INFO 2021-10-20 22:05:43,611 autoreload 8956 11624 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:05:44,727 autoreload 18252 17804 Watching for file changes with StatReloader
+INFO 2021-10-20 22:05:48,299 autoreload 18252 17804 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:05:50,147 autoreload 2164 9240 Watching for file changes with StatReloader
+INFO 2021-10-20 22:05:52,482 autoreload 2164 9240 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:05:53,555 autoreload 12864 17540 Watching for file changes with StatReloader
+INFO 2021-10-20 22:06:04,003 autoreload 12864 17540 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:06:05,051 autoreload 6168 10220 Watching for file changes with StatReloader
+INFO 2021-10-20 22:06:08,577 autoreload 6168 10220 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:06:09,736 autoreload 18560 12552 Watching for file changes with StatReloader
+INFO 2021-10-20 22:06:15,412 autoreload 18560 12552 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:06:17,272 autoreload 7848 14344 Watching for file changes with StatReloader
+INFO 2021-10-20 22:06:29,661 autoreload 7848 14344 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:06:31,463 autoreload 10280 16220 Watching for file changes with StatReloader
+INFO 2021-10-20 22:07:55,330 autoreload 10280 16220 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:07:56,475 autoreload 8796 1008 Watching for file changes with StatReloader
+INFO 2021-10-20 22:08:22,007 autoreload 8796 1008 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:08:23,205 autoreload 968 14476 Watching for file changes with StatReloader
+INFO 2021-10-20 22:09:48,106 autoreload 968 14476 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:09:49,105 autoreload 17988 11884 Watching for file changes with StatReloader
+INFO 2021-10-20 22:09:51,503 autoreload 17988 11884 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:09:52,674 autoreload 4908 4192 Watching for file changes with StatReloader
+INFO 2021-10-20 22:10:10,733 autoreload 4908 4192 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:10:11,724 autoreload 18448 6392 Watching for file changes with StatReloader
+INFO 2021-10-20 22:10:14,185 autoreload 18448 6392 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:10:15,133 autoreload 8364 604 Watching for file changes with StatReloader
+INFO 2021-10-20 22:10:47,296 autoreload 8364 604 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:10:48,339 autoreload 1228 9492 Watching for file changes with StatReloader
+INFO 2021-10-20 22:13:04,070 autoreload 1228 9492 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:13:05,190 autoreload 13648 16996 Watching for file changes with StatReloader
+INFO 2021-10-20 22:13:09,792 autoreload 13648 16996 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:13:11,379 autoreload 6324 17608 Watching for file changes with StatReloader
+INFO 2021-10-20 22:13:34,496 autoreload 6324 17608 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:13:35,487 autoreload 11532 7212 Watching for file changes with StatReloader
+INFO 2021-10-20 22:15:08,272 autoreload 11532 7212 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:15:09,850 autoreload 11192 12432 Watching for file changes with StatReloader
+INFO 2021-10-20 22:15:11,660 autoreload 11192 12432 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:15:12,904 autoreload 11772 14276 Watching for file changes with StatReloader
+INFO 2021-10-20 22:15:19,626 autoreload 11772 14276 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:15:21,477 autoreload 6332 12824 Watching for file changes with StatReloader
+INFO 2021-10-20 22:15:27,927 autoreload 6332 12824 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:15:29,262 autoreload 13912 4008 Watching for file changes with StatReloader
+INFO 2021-10-20 22:15:46,403 autoreload 13912 4008 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:15:47,741 autoreload 15996 15872 Watching for file changes with StatReloader
+INFO 2021-10-20 22:16:46,437 autoreload 15996 15872 C:\MY DRIVE\Celebal\Task6\Task6\settings.py changed, reloading.
+INFO 2021-10-20 22:16:47,614 autoreload 9004 17828 Watching for file changes with StatReloader
+INFO 2021-10-20 22:17:54,443 autoreload 9004 17828 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:17:56,088 autoreload 9332 16308 Watching for file changes with StatReloader
+INFO 2021-10-20 22:18:01,997 autoreload 9332 16308 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:18:03,552 autoreload 1968 11552 Watching for file changes with StatReloader
+INFO 2021-10-20 22:18:17,601 autoreload 1968 11552 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:18:18,891 autoreload 6484 10036 Watching for file changes with StatReloader
+INFO 2021-10-20 22:18:59,998 autoreload 6484 10036 C:\MY DRIVE\Celebal\Task6\Web_app\urls.py changed, reloading.
+INFO 2021-10-20 22:19:01,249 autoreload 18428 3556 Watching for file changes with StatReloader
+INFO 2021-10-20 22:19:06,690 autoreload 18428 3556 C:\MY DRIVE\Celebal\Task6\Web_app\urls.py changed, reloading.
+INFO 2021-10-20 22:19:08,046 autoreload 11476 18008 Watching for file changes with StatReloader
+INFO 2021-10-20 22:19:10,621 autoreload 11476 18008 C:\MY DRIVE\Celebal\Task6\Web_app\urls.py changed, reloading.
+INFO 2021-10-20 22:19:11,909 autoreload 5868 16056 Watching for file changes with StatReloader
+INFO 2021-10-20 22:19:15,497 autoreload 5868 16056 C:\MY DRIVE\Celebal\Task6\Web_app\urls.py changed, reloading.
+INFO 2021-10-20 22:19:16,834 autoreload 13908 14972 Watching for file changes with StatReloader
+INFO 2021-10-20 22:19:42,308 autoreload 13908 14972 C:\MY DRIVE\Celebal\Task6\Web_app\urls.py changed, reloading.
+INFO 2021-10-20 22:19:43,813 autoreload 17000 15224 Watching for file changes with StatReloader
+INFO 2021-10-20 22:19:49,778 autoreload 17000 15224 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:19:51,455 autoreload 17732 15068 Watching for file changes with StatReloader
+INFO 2021-10-20 22:19:57,232 autoreload 17732 15068 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:19:59,913 autoreload 8652 13184 Watching for file changes with StatReloader
+INFO 2021-10-20 22:20:12,173 autoreload 8652 13184 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:20:14,265 autoreload 12960 7720 Watching for file changes with StatReloader
+INFO 2021-10-20 22:20:16,791 autoreload 12960 7720 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:20:18,145 autoreload 14488 12896 Watching for file changes with StatReloader
+INFO 2021-10-20 22:20:59,874 autoreload 17868 10716 Watching for file changes with StatReloader
+INFO 2021-10-20 22:21:03,850 basehttp 17868 18864 "GET /forgot_password HTTP/1.1" 200 2714
+ERROR 2021-10-20 22:21:17,079 log 17868 18864 Internal Server Error: /forgot_password
+Traceback (most recent call last):
+  File "C:\MY DRIVE\Celebal\env6\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\MY DRIVE\Celebal\env6\lib\site-packages\django\core\handlers\base.py", line 188, in _get_response
+    self.check_response(response, callback)
+  File "C:\MY DRIVE\Celebal\env6\lib\site-packages\django\core\handlers\base.py", line 309, in check_response
+    raise ValueError(
+ValueError: The view Web_app.views.UserPasswordForgetView didn't return an HttpResponse object. It returned None instead.
+ERROR 2021-10-20 22:21:17,081 basehttp 17868 18864 "POST /forgot_password HTTP/1.1" 500 67246
+INFO 2021-10-20 22:21:28,372 autoreload 17868 10716 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:21:31,019 autoreload 11612 12984 Watching for file changes with StatReloader
+INFO 2021-10-20 22:21:33,706 autoreload 11612 12984 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:21:34,994 autoreload 10832 4692 Watching for file changes with StatReloader
+INFO 2021-10-20 22:48:04,404 autoreload 15872 1756 Watching for file changes with StatReloader
+INFO 2021-10-20 22:48:05,972 basehttp 15872 9072 "GET /forgot_password HTTP/1.1" 200 2714
+INFO 2021-10-20 22:48:06,495 basehttp 15872 9072 "GET /forgot_password HTTP/1.1" 200 2714
+INFO 2021-10-20 22:49:41,581 autoreload 15872 1756 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:49:42,568 autoreload 14768 15592 Watching for file changes with StatReloader
+INFO 2021-10-20 22:49:48,098 autoreload 14768 15592 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:49:49,066 autoreload 16604 7580 Watching for file changes with StatReloader
+INFO 2021-10-20 22:50:33,619 autoreload 16604 7580 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:50:34,711 autoreload 11220 14972 Watching for file changes with StatReloader
+INFO 2021-10-20 22:50:36,310 autoreload 11220 14972 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:50:37,677 autoreload 17140 180 Watching for file changes with StatReloader
+INFO 2021-10-20 22:50:38,967 autoreload 17140 180 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:50:40,356 autoreload 16564 10416 Watching for file changes with StatReloader
+INFO 2021-10-20 22:50:42,886 autoreload 16564 10416 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:50:44,093 autoreload 17744 15944 Watching for file changes with StatReloader
+INFO 2021-10-20 22:50:46,759 autoreload 17744 15944 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:50:47,895 autoreload 1820 15044 Watching for file changes with StatReloader
+INFO 2021-10-20 22:50:50,412 autoreload 1820 15044 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:50:51,802 autoreload 11876 16988 Watching for file changes with StatReloader
+INFO 2021-10-20 22:51:13,657 autoreload 11876 16988 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:51:14,748 autoreload 18492 18724 Watching for file changes with StatReloader
+INFO 2021-10-20 22:51:20,346 autoreload 18492 18724 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:51:21,369 autoreload 1104 3228 Watching for file changes with StatReloader
+INFO 2021-10-20 22:51:25,958 autoreload 1104 3228 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:51:27,114 autoreload 11860 17828 Watching for file changes with StatReloader
+INFO 2021-10-20 22:51:30,749 autoreload 11860 17828 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:51:31,821 autoreload 14028 15204 Watching for file changes with StatReloader
+INFO 2021-10-20 22:51:38,693 autoreload 14028 15204 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:51:39,814 autoreload 14076 1332 Watching for file changes with StatReloader
+INFO 2021-10-20 22:51:45,494 autoreload 14076 1332 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:51:46,644 autoreload 7512 664 Watching for file changes with StatReloader
+INFO 2021-10-20 22:51:51,283 autoreload 7512 664 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:51:52,413 autoreload 6076 10100 Watching for file changes with StatReloader
+INFO 2021-10-20 22:51:53,925 autoreload 6076 10100 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:51:55,055 autoreload 6340 14232 Watching for file changes with StatReloader
+INFO 2021-10-20 22:51:57,585 autoreload 6340 14232 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:51:58,964 autoreload 14640 8392 Watching for file changes with StatReloader
+INFO 2021-10-20 22:52:01,496 autoreload 14640 8392 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:52:02,679 autoreload 15996 5768 Watching for file changes with StatReloader
+INFO 2021-10-20 22:52:08,282 autoreload 15996 5768 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:52:09,391 autoreload 16252 10088 Watching for file changes with StatReloader
+INFO 2021-10-20 22:52:41,763 autoreload 16252 10088 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:52:43,008 autoreload 700 10052 Watching for file changes with StatReloader
+INFO 2021-10-20 22:52:44,588 autoreload 700 10052 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:52:45,743 autoreload 5876 1152 Watching for file changes with StatReloader
+INFO 2021-10-20 22:52:49,302 autoreload 5876 1152 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:52:50,324 autoreload 12060 19340 Watching for file changes with StatReloader
+INFO 2021-10-20 22:52:52,886 autoreload 12060 19340 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:52:54,173 autoreload 9844 15512 Watching for file changes with StatReloader
+INFO 2021-10-20 22:52:56,751 autoreload 9844 15512 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:52:57,950 autoreload 8224 12152 Watching for file changes with StatReloader
+INFO 2021-10-20 22:53:52,193 autoreload 8224 12152 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:53:53,328 autoreload 7300 16052 Watching for file changes with StatReloader
+INFO 2021-10-20 22:53:59,055 autoreload 7300 16052 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:54:00,363 autoreload 16208 6972 Watching for file changes with StatReloader
+INFO 2021-10-20 22:54:06,227 autoreload 16208 6972 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:54:07,424 autoreload 14068 16684 Watching for file changes with StatReloader
+INFO 2021-10-20 22:54:52,356 autoreload 14068 16684 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:54:53,613 autoreload 19412 18876 Watching for file changes with StatReloader
+INFO 2021-10-20 22:55:01,392 autoreload 19412 18876 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:55:02,703 autoreload 17328 7292 Watching for file changes with StatReloader
+INFO 2021-10-20 22:55:07,299 autoreload 17328 7292 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:55:08,378 autoreload 16456 3564 Watching for file changes with StatReloader
+INFO 2021-10-20 22:55:19,132 autoreload 16456 3564 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:55:20,445 autoreload 14740 8320 Watching for file changes with StatReloader
+INFO 2021-10-20 22:55:31,311 autoreload 14740 8320 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:55:32,500 autoreload 14884 10044 Watching for file changes with StatReloader
+INFO 2021-10-20 22:55:36,160 autoreload 14884 10044 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:55:37,428 autoreload 14720 18448 Watching for file changes with StatReloader
+INFO 2021-10-20 22:55:42,061 autoreload 14720 18448 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:55:43,468 autoreload 11612 11032 Watching for file changes with StatReloader
+INFO 2021-10-20 22:55:50,198 autoreload 11612 11032 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:55:51,886 autoreload 4856 18168 Watching for file changes with StatReloader
+INFO 2021-10-20 22:55:56,565 autoreload 4856 18168 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:55:57,689 autoreload 10724 4652 Watching for file changes with StatReloader
+INFO 2021-10-20 22:56:18,825 autoreload 10724 4652 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:56:20,423 autoreload 2816 17532 Watching for file changes with StatReloader
+INFO 2021-10-20 22:56:22,075 autoreload 2816 17532 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:56:23,345 autoreload 10700 11668 Watching for file changes with StatReloader
+INFO 2021-10-20 22:56:25,933 autoreload 10700 11668 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:56:27,032 autoreload 6636 17284 Watching for file changes with StatReloader
+INFO 2021-10-20 22:56:37,408 autoreload 6636 17284 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 22:56:38,576 autoreload 3480 14588 Watching for file changes with StatReloader
+INFO 2021-10-20 23:01:17,725 autoreload 3480 14588 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:01:18,739 autoreload 11588 640 Watching for file changes with StatReloader
+INFO 2021-10-20 23:01:20,226 autoreload 11588 640 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:01:21,239 autoreload 8668 17548 Watching for file changes with StatReloader
+INFO 2021-10-20 23:01:38,097 autoreload 8668 17548 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:01:39,065 autoreload 15016 17112 Watching for file changes with StatReloader
+INFO 2021-10-20 23:01:44,597 autoreload 15016 17112 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:01:45,648 autoreload 9472 15136 Watching for file changes with StatReloader
+INFO 2021-10-20 23:01:51,174 autoreload 9472 15136 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:01:52,144 autoreload 13236 4912 Watching for file changes with StatReloader
+INFO 2021-10-20 23:02:15,038 autoreload 13236 4912 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:02:16,088 autoreload 6912 4556 Watching for file changes with StatReloader
+INFO 2021-10-20 23:02:18,651 autoreload 6912 4556 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:02:19,857 autoreload 7528 15432 Watching for file changes with StatReloader
+INFO 2021-10-20 23:02:22,149 autoreload 7528 15432 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:02:23,122 autoreload 15836 16244 Watching for file changes with StatReloader
+INFO 2021-10-20 23:02:34,882 basehttp 15836 16720 "GET /change_password/60a8b529-d42b-4b2b-b395-467d1846bc99 HTTP/1.1" 301 0
+INFO 2021-10-20 23:02:34,907 basehttp 15836 16720 "GET /change_password/60a8b529-d42b-4b2b-b395-467d1846bc99/ HTTP/1.1" 302 0
+INFO 2021-10-20 23:02:34,942 basehttp 15836 16720 "GET /login/?next=/change_password/60a8b529-d42b-4b2b-b395-467d1846bc99/ HTTP/1.1" 200 2757
+INFO 2021-10-20 23:02:43,023 basehttp 15836 16560 "GET /forgot_password HTTP/1.1" 200 2722
+INFO 2021-10-20 23:03:03,792 basehttp 15836 11000 "POST /forgot_password HTTP/1.1" 200 2789
+INFO 2021-10-20 23:03:17,914 basehttp 15836 4812 "GET /reset_password/60a8b529-d42b-4b2b-b395-467d1846bc99 HTTP/1.1" 301 0
+INFO 2021-10-20 23:03:17,940 basehttp 15836 4812 "GET /reset_password/60a8b529-d42b-4b2b-b395-467d1846bc99/ HTTP/1.1" 200 2827
+INFO 2021-10-20 23:03:31,711 views 15836 7776 Passwords did not match
+INFO 2021-10-20 23:03:31,717 basehttp 15836 7776 "POST /reset_password/60a8b529-d42b-4b2b-b395-467d1846bc99/ HTTP/1.1" 200 2870
+INFO 2021-10-20 23:04:00,075 views 15836 1232 Password Length Must Be 8
+INFO 2021-10-20 23:04:00,081 basehttp 15836 1232 "POST /reset_password/60a8b529-d42b-4b2b-b395-467d1846bc99/ HTTP/1.1" 200 2869
+INFO 2021-10-20 23:04:16,145 basehttp 15836 1232 "POST /reset_password/60a8b529-d42b-4b2b-b395-467d1846bc99/ HTTP/1.1" 302 0
+INFO 2021-10-20 23:04:16,157 basehttp 15836 1232 "GET /login/ HTTP/1.1" 200 2757
+INFO 2021-10-20 23:04:34,684 views 15836 1232 User logged in
+INFO 2021-10-20 23:04:34,697 basehttp 15836 1232 "POST /login/ HTTP/1.1" 302 0
+INFO 2021-10-20 23:04:34,729 basehttp 15836 1232 "GET / HTTP/1.1" 200 2389
+INFO 2021-10-20 23:04:45,224 basehttp 15836 1232 "GET /change_password/60a8b529-d42b-4b2b-b395-467d1846bc99/ HTTP/1.1" 200 2981
+INFO 2021-10-20 23:04:55,832 basehttp 15836 1232 "GET /change_password/60a8b529-d42b-4b2b-b395-467d1846bc99/ HTTP/1.1" 200 2980
+INFO 2021-10-20 23:05:08,372 basehttp 15836 1232 "GET /change_password/60a8b529-d42b-4b2b-b395-467d1846bc99/ HTTP/1.1" 200 2984
+ERROR 2021-10-20 23:05:23,237 views 15836 1232 Old password is incorrect
+INFO 2021-10-20 23:05:23,240 basehttp 15836 1232 "POST /change_password/60a8b529-d42b-4b2b-b395-467d1846bc99/ HTTP/1.1" 200 3031
+INFO 2021-10-20 23:05:38,657 views 15836 1232 Passwords did not match
+INFO 2021-10-20 23:05:38,661 basehttp 15836 1232 "POST /change_password/60a8b529-d42b-4b2b-b395-467d1846bc99/ HTTP/1.1" 200 3027
+INFO 2021-10-20 23:05:57,286 views 15836 1232 User Changed his password
+INFO 2021-10-20 23:05:57,287 basehttp 15836 1232 "POST /change_password/60a8b529-d42b-4b2b-b395-467d1846bc99/ HTTP/1.1" 302 0
+INFO 2021-10-20 23:05:57,328 basehttp 15836 1232 "GET /login/ HTTP/1.1" 200 2757
+INFO 2021-10-20 23:06:51,494 autoreload 15836 16244 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:06:52,556 autoreload 15180 13452 Watching for file changes with StatReloader
+INFO 2021-10-20 23:06:55,059 autoreload 15180 13452 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:06:56,312 autoreload 11644 4684 Watching for file changes with StatReloader
+INFO 2021-10-20 23:07:01,684 autoreload 11644 4684 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:07:02,782 autoreload 6868 6880 Watching for file changes with StatReloader
+INFO 2021-10-20 23:07:10,230 autoreload 6868 6880 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:07:11,384 autoreload 14284 15484 Watching for file changes with StatReloader
+INFO 2021-10-20 23:07:19,180 autoreload 14284 15484 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:07:20,557 autoreload 12364 15864 Watching for file changes with StatReloader
+INFO 2021-10-20 23:07:29,332 autoreload 12364 15864 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:07:30,456 autoreload 17700 12972 Watching for file changes with StatReloader
+INFO 2021-10-20 23:07:35,060 autoreload 17700 12972 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:07:36,372 autoreload 13872 3312 Watching for file changes with StatReloader
+INFO 2021-10-20 23:07:41,072 autoreload 13872 3312 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:07:42,475 autoreload 10944 7784 Watching for file changes with StatReloader
+INFO 2021-10-20 23:08:21,177 autoreload 10944 7784 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:08:22,319 autoreload 19248 7912 Watching for file changes with StatReloader
+INFO 2021-10-20 23:08:43,587 autoreload 19248 7912 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:08:44,749 autoreload 18460 10732 Watching for file changes with StatReloader
+INFO 2021-10-20 23:08:52,463 autoreload 18460 10732 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:08:53,522 autoreload 18488 10452 Watching for file changes with StatReloader
+INFO 2021-10-20 23:09:27,092 basehttp 18488 1232 "GET /login/ HTTP/1.1" 200 2757
+ERROR 2021-10-20 23:09:32,366 views 18488 1232 Login error
+INFO 2021-10-20 23:09:32,375 basehttp 18488 1232 "POST /login/ HTTP/1.1" 200 46
+INFO 2021-10-20 23:09:34,341 basehttp 18488 1232 "GET /login/ HTTP/1.1" 200 2757
+ERROR 2021-10-20 23:09:45,420 views 18488 1232 Login error
+INFO 2021-10-20 23:09:45,446 basehttp 18488 1232 "POST /login/ HTTP/1.1" 200 46
+INFO 2021-10-20 23:09:49,077 basehttp 18488 1232 "GET /login/ HTTP/1.1" 200 2757
+INFO 2021-10-20 23:09:50,331 basehttp 18488 1232 "GET /login/ HTTP/1.1" 200 2757
+ERROR 2021-10-20 23:09:53,698 views 18488 1232 Login error
+INFO 2021-10-20 23:09:53,710 basehttp 18488 1232 "POST /login/ HTTP/1.1" 200 46
+INFO 2021-10-20 23:09:55,547 basehttp 18488 1232 "GET /login/ HTTP/1.1" 200 2757
+ERROR 2021-10-20 23:10:01,294 views 18488 1232 Login error
+INFO 2021-10-20 23:10:01,308 basehttp 18488 1232 "POST /login/ HTTP/1.1" 200 46
+INFO 2021-10-20 23:11:10,434 autoreload 18488 10452 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:11:11,660 autoreload 9892 12260 Watching for file changes with StatReloader
+INFO 2021-10-20 23:11:28,743 autoreload 9892 12260 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:11:29,986 autoreload 13152 7484 Watching for file changes with StatReloader
+INFO 2021-10-20 23:11:35,709 autoreload 13152 7484 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:11:36,800 autoreload 12704 8084 Watching for file changes with StatReloader
+INFO 2021-10-20 23:12:03,826 autoreload 12704 8084 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:12:04,718 autoreload 11064 7220 Watching for file changes with StatReloader
+INFO 2021-10-20 23:12:08,168 autoreload 11064 7220 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:12:09,117 autoreload 19232 16536 Watching for file changes with StatReloader
+INFO 2021-10-20 23:12:11,655 autoreload 19232 16536 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:12:12,679 autoreload 13528 928 Watching for file changes with StatReloader
+INFO 2021-10-20 23:12:20,518 autoreload 13528 928 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:12:21,543 autoreload 18516 15644 Watching for file changes with StatReloader
+INFO 2021-10-20 23:12:29,145 autoreload 18516 15644 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:12:30,141 autoreload 4856 8976 Watching for file changes with StatReloader
+INFO 2021-10-20 23:12:40,831 autoreload 4856 8976 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:12:41,719 autoreload 8800 10676 Watching for file changes with StatReloader
+INFO 2021-10-20 23:12:51,297 autoreload 8800 10676 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:12:52,303 autoreload 12872 17108 Watching for file changes with StatReloader
+INFO 2021-10-20 23:13:04,955 autoreload 12872 17108 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:13:06,046 autoreload 19096 9412 Watching for file changes with StatReloader
+INFO 2021-10-20 23:13:08,549 autoreload 19096 9412 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:13:09,902 autoreload 11080 13960 Watching for file changes with StatReloader
+INFO 2021-10-20 23:13:31,235 basehttp 11080 9400 "GET /login/ HTTP/1.1" 200 2757
+INFO 2021-10-20 23:13:32,926 basehttp 11080 9400 "GET / HTTP/1.1" 200 2333
+INFO 2021-10-20 23:13:33,769 basehttp 11080 9400 "GET / HTTP/1.1" 200 2333
+INFO 2021-10-20 23:13:34,684 basehttp 11080 9400 "GET /login/ HTTP/1.1" 200 2757
+INFO 2021-10-20 23:13:35,663 basehttp 11080 9400 "GET /signup/ HTTP/1.1" 200 3171
+INFO 2021-10-20 23:13:36,507 basehttp 11080 9400 "GET /login/ HTTP/1.1" 200 2757
+INFO 2021-10-20 23:13:37,245 basehttp 11080 9400 "GET / HTTP/1.1" 200 2333
+INFO 2021-10-20 23:13:38,875 basehttp 11080 9400 "GET /login/ HTTP/1.1" 200 2757
+INFO 2021-10-20 23:13:56,307 autoreload 8488 2928 Watching for file changes with StatReloader
+INFO 2021-10-20 23:16:07,277 autoreload 8488 2928 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:16:08,424 autoreload 13692 1052 Watching for file changes with StatReloader
+INFO 2021-10-20 23:16:12,864 autoreload 13692 1052 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:16:14,130 autoreload 6764 12364 Watching for file changes with StatReloader
+INFO 2021-10-20 23:16:22,907 autoreload 6764 12364 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:16:24,510 autoreload 18568 8556 Watching for file changes with StatReloader
+INFO 2021-10-20 23:16:28,050 autoreload 18568 8556 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:16:29,311 autoreload 13048 14144 Watching for file changes with StatReloader
+INFO 2021-10-20 23:16:40,145 autoreload 13048 14144 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:16:41,737 autoreload 6608 17836 Watching for file changes with StatReloader
+INFO 2021-10-20 23:16:43,905 basehttp 6608 1456 "GET /signup/ HTTP/1.1" 200 3171
+ERROR 2021-10-20 23:16:48,994 log 6608 9492 Internal Server Error: /signup/
+Traceback (most recent call last):
+  File "C:\MY DRIVE\Celebal\env6\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\MY DRIVE\Celebal\env6\lib\site-packages\django\core\handlers\base.py", line 188, in _get_response
+    self.check_response(response, callback)
+  File "C:\MY DRIVE\Celebal\env6\lib\site-packages\django\core\handlers\base.py", line 309, in check_response
+    raise ValueError(
+ValueError: The view Web_app.views.UserSignUpView didn't return an HttpResponse object. It returned None instead.
+ERROR 2021-10-20 23:16:48,996 basehttp 6608 9492 "POST /signup/ HTTP/1.1" 500 67851
+INFO 2021-10-20 23:18:25,564 autoreload 15436 4768 Watching for file changes with StatReloader
+INFO 2021-10-20 23:18:33,591 basehttp 15436 12744 "GET /signup/ HTTP/1.1" 200 3189
+ERROR 2021-10-20 23:19:22,253 log 15436 18568 Internal Server Error: /signup/
+Traceback (most recent call last):
+  File "C:\MY DRIVE\Celebal\env6\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\MY DRIVE\Celebal\env6\lib\site-packages\django\core\handlers\base.py", line 188, in _get_response
+    self.check_response(response, callback)
+  File "C:\MY DRIVE\Celebal\env6\lib\site-packages\django\core\handlers\base.py", line 309, in check_response
+    raise ValueError(
+ValueError: The view Web_app.views.UserSignUpView didn't return an HttpResponse object. It returned None instead.
+ERROR 2021-10-20 23:19:22,255 basehttp 15436 18568 "POST /signup/ HTTP/1.1" 500 67836
+INFO 2021-10-20 23:19:33,706 autoreload 15436 4768 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:19:34,759 autoreload 14308 13784 Watching for file changes with StatReloader
+INFO 2021-10-20 23:19:39,109 autoreload 14308 13784 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:19:40,060 autoreload 3176 6496 Watching for file changes with StatReloader
+INFO 2021-10-20 23:19:43,613 autoreload 3176 6496 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:19:44,646 autoreload 6488 16596 Watching for file changes with StatReloader
+INFO 2021-10-20 23:19:47,115 autoreload 6488 16596 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:19:48,037 autoreload 1956 6200 Watching for file changes with StatReloader
+INFO 2021-10-20 23:21:04,396 autoreload 1956 6200 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:21:05,347 autoreload 16656 17172 Watching for file changes with StatReloader
+INFO 2021-10-20 23:21:10,874 autoreload 16656 17172 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:21:11,842 autoreload 13764 9004 Watching for file changes with StatReloader
+INFO 2021-10-20 23:21:15,158 autoreload 13764 9004 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:21:16,141 autoreload 18460 9416 Watching for file changes with StatReloader
+INFO 2021-10-20 23:21:18,485 autoreload 18460 9416 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:21:19,540 autoreload 19056 184 Watching for file changes with StatReloader
+INFO 2021-10-20 23:21:21,820 autoreload 19056 184 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:21:22,768 autoreload 16996 15980 Watching for file changes with StatReloader
+INFO 2021-10-20 23:21:26,053 autoreload 16996 15980 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:21:26,971 autoreload 2428 4516 Watching for file changes with StatReloader
+INFO 2021-10-20 23:21:31,272 autoreload 2428 4516 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:21:32,189 autoreload 17716 12600 Watching for file changes with StatReloader
+INFO 2021-10-20 23:22:16,390 autoreload 17716 12600 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:22:17,416 autoreload 2816 4812 Watching for file changes with StatReloader
+INFO 2021-10-20 23:22:19,713 autoreload 2816 4812 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:22:20,596 autoreload 8220 17096 Watching for file changes with StatReloader
+INFO 2021-10-20 23:22:23,863 autoreload 8220 17096 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:22:25,213 autoreload 16968 9944 Watching for file changes with StatReloader
+INFO 2021-10-20 23:22:26,506 autoreload 16968 9944 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:22:27,525 autoreload 10996 9668 Watching for file changes with StatReloader
+INFO 2021-10-20 23:22:28,767 autoreload 10996 9668 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:22:29,837 autoreload 1340 7220 Watching for file changes with StatReloader
+INFO 2021-10-20 23:22:32,211 autoreload 1340 7220 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:22:33,157 autoreload 9492 7024 Watching for file changes with StatReloader
+INFO 2021-10-20 23:22:36,470 autoreload 9492 7024 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:22:37,688 autoreload 6804 18696 Watching for file changes with StatReloader
+INFO 2021-10-20 23:22:41,981 autoreload 6804 18696 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:22:42,927 autoreload 17900 524 Watching for file changes with StatReloader
+INFO 2021-10-20 23:22:44,345 autoreload 17900 524 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:22:45,323 autoreload 14648 12080 Watching for file changes with StatReloader
+INFO 2021-10-20 23:22:50,849 autoreload 14648 12080 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:22:51,793 autoreload 16740 10964 Watching for file changes with StatReloader
+INFO 2021-10-20 23:22:54,100 autoreload 16740 10964 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:22:55,273 autoreload 15756 10484 Watching for file changes with StatReloader
+INFO 2021-10-20 23:22:57,530 autoreload 15756 10484 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:22:58,432 autoreload 9524 18220 Watching for file changes with StatReloader
+INFO 2021-10-20 23:23:00,753 autoreload 9524 18220 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:23:01,684 autoreload 8912 4456 Watching for file changes with StatReloader
+INFO 2021-10-20 23:23:03,069 autoreload 8912 4456 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:23:04,003 autoreload 17776 10236 Watching for file changes with StatReloader
+INFO 2021-10-20 23:23:07,485 autoreload 17776 10236 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:23:08,417 autoreload 13092 10568 Watching for file changes with StatReloader
+INFO 2021-10-20 23:23:13,725 autoreload 13092 10568 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:23:14,681 autoreload 5576 18852 Watching for file changes with StatReloader
+INFO 2021-10-20 23:23:17,957 autoreload 5576 18852 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:23:18,997 autoreload 12400 13960 Watching for file changes with StatReloader
+INFO 2021-10-20 23:23:20,298 autoreload 12400 13960 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:23:21,516 autoreload 4516 10064 Watching for file changes with StatReloader
+INFO 2021-10-20 23:23:26,901 autoreload 4516 10064 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:23:28,010 autoreload 6812 15792 Watching for file changes with StatReloader
+INFO 2021-10-20 23:23:38,739 autoreload 6812 15792 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:23:39,742 autoreload 11588 13612 Watching for file changes with StatReloader
+INFO 2021-10-20 23:23:56,704 autoreload 11588 13612 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:23:57,700 autoreload 9532 12808 Watching for file changes with StatReloader
+INFO 2021-10-20 23:24:02,026 autoreload 9532 12808 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:24:03,094 autoreload 1524 12128 Watching for file changes with StatReloader
+INFO 2021-10-20 23:24:04,431 autoreload 1524 12128 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:24:05,933 autoreload 17096 17460 Watching for file changes with StatReloader
+INFO 2021-10-20 23:24:08,270 autoreload 17096 17460 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:24:09,382 autoreload 10684 14308 Watching for file changes with StatReloader
+INFO 2021-10-20 23:24:10,639 autoreload 10684 14308 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:24:11,647 autoreload 10996 2196 Watching for file changes with StatReloader
+INFO 2021-10-20 23:24:15,013 autoreload 10996 2196 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:24:16,034 autoreload 19336 17784 Watching for file changes with StatReloader
+INFO 2021-10-20 23:24:20,498 autoreload 19336 17784 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:24:21,592 autoreload 1508 14632 Watching for file changes with StatReloader
+INFO 2021-10-20 23:24:22,877 autoreload 1508 14632 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:24:23,828 autoreload 7960 11564 Watching for file changes with StatReloader
+INFO 2021-10-20 23:24:26,080 autoreload 7960 11564 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:24:27,104 autoreload 16164 12668 Watching for file changes with StatReloader
+INFO 2021-10-20 23:24:29,379 autoreload 16164 12668 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:24:30,438 autoreload 2240 12080 Watching for file changes with StatReloader
+INFO 2021-10-20 23:24:31,927 autoreload 2240 12080 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:24:33,481 autoreload 19272 9048 Watching for file changes with StatReloader
+INFO 2021-10-20 23:24:35,028 autoreload 19272 9048 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:24:36,573 autoreload 352 1776 Watching for file changes with StatReloader
+INFO 2021-10-20 23:24:38,015 autoreload 352 1776 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:24:39,054 autoreload 13848 10156 Watching for file changes with StatReloader
+INFO 2021-10-20 23:24:40,713 autoreload 13848 10156 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:24:42,103 autoreload 664 9004 Watching for file changes with StatReloader
+INFO 2021-10-20 23:24:44,656 autoreload 664 9004 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:24:46,038 autoreload 18288 6272 Watching for file changes with StatReloader
+INFO 2021-10-20 23:24:47,496 autoreload 18288 6272 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:24:48,968 autoreload 10832 12680 Watching for file changes with StatReloader
+INFO 2021-10-20 23:24:56,558 autoreload 10832 12680 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:24:57,667 autoreload 5988 17548 Watching for file changes with StatReloader
+INFO 2021-10-20 23:26:23,416 basehttp 5988 2820 "GET /signup/ HTTP/1.1" 200 3189
+INFO 2021-10-20 23:26:31,253 autoreload 5988 17548 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:26:32,826 autoreload 1500 5732 Watching for file changes with StatReloader
+INFO 2021-10-20 23:26:34,351 autoreload 1500 5732 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:26:36,002 autoreload 11092 12712 Watching for file changes with StatReloader
+INFO 2021-10-20 23:26:39,786 autoreload 11092 12712 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:26:41,271 autoreload 1280 13444 Watching for file changes with StatReloader
+INFO 2021-10-20 23:26:49,062 autoreload 1280 13444 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:26:50,432 autoreload 7184 3856 Watching for file changes with StatReloader
+INFO 2021-10-20 23:26:52,171 autoreload 7184 3856 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:26:53,632 autoreload 9004 8640 Watching for file changes with StatReloader
+INFO 2021-10-20 23:27:45,011 autoreload 9004 8640 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:27:46,256 autoreload 12456 6860 Watching for file changes with StatReloader
+INFO 2021-10-20 23:27:49,613 autoreload 12456 6860 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:27:50,898 autoreload 11856 18236 Watching for file changes with StatReloader
+INFO 2021-10-20 23:28:02,536 autoreload 11856 18236 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:28:03,684 autoreload 12620 9680 Watching for file changes with StatReloader
+INFO 2021-10-20 23:28:04,995 autoreload 12620 9680 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:28:06,221 autoreload 15512 14488 Watching for file changes with StatReloader
+INFO 2021-10-20 23:28:08,622 autoreload 15512 14488 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:28:09,971 autoreload 6632 14612 Watching for file changes with StatReloader
+INFO 2021-10-20 23:28:19,767 autoreload 6632 14612 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:28:20,835 autoreload 5640 10776 Watching for file changes with StatReloader
+INFO 2021-10-20 23:28:22,325 autoreload 5640 10776 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:28:23,492 autoreload 1500 9992 Watching for file changes with StatReloader
+INFO 2021-10-20 23:28:28,102 autoreload 1500 9992 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:28:29,238 autoreload 12556 6412 Watching for file changes with StatReloader
+INFO 2021-10-20 23:28:31,724 autoreload 12556 6412 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:28:32,739 autoreload 8000 15756 Watching for file changes with StatReloader
+INFO 2021-10-20 23:28:36,279 autoreload 8000 15756 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:28:37,457 autoreload 14800 16168 Watching for file changes with StatReloader
+INFO 2021-10-20 23:28:41,003 autoreload 14800 16168 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:28:42,234 autoreload 12344 16456 Watching for file changes with StatReloader
+INFO 2021-10-20 23:28:59,306 autoreload 12344 16456 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:29:00,484 autoreload 19024 9728 Watching for file changes with StatReloader
+INFO 2021-10-20 23:29:02,866 autoreload 19024 9728 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:29:04,529 autoreload 13356 14804 Watching for file changes with StatReloader
+INFO 2021-10-20 23:29:06,887 autoreload 13356 14804 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:29:08,044 autoreload 13564 9816 Watching for file changes with StatReloader
+INFO 2021-10-20 23:29:11,324 autoreload 13564 9816 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:29:12,618 autoreload 3600 18624 Watching for file changes with StatReloader
+INFO 2021-10-20 23:29:26,272 autoreload 3600 18624 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:29:27,314 autoreload 13976 11008 Watching for file changes with StatReloader
+INFO 2021-10-20 23:29:32,833 autoreload 13976 11008 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:29:33,943 autoreload 1012 11300 Watching for file changes with StatReloader
+INFO 2021-10-20 23:30:04,484 autoreload 1012 11300 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:30:05,528 autoreload 10776 15564 Watching for file changes with StatReloader
+INFO 2021-10-20 23:30:10,095 autoreload 10776 15564 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:30:11,324 autoreload 2680 2496 Watching for file changes with StatReloader
+INFO 2021-10-20 23:31:21,951 autoreload 2680 2496 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:31:23,157 autoreload 3176 15912 Watching for file changes with StatReloader
+INFO 2021-10-20 23:31:25,766 autoreload 3176 15912 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:31:27,037 autoreload 10116 9352 Watching for file changes with StatReloader
+INFO 2021-10-20 23:31:34,684 autoreload 10116 9352 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:31:36,071 autoreload 7632 12120 Watching for file changes with StatReloader
+INFO 2021-10-20 23:32:02,685 basehttp 7632 13860 "GET /signup/ HTTP/1.1" 200 3189
+INFO 2021-10-20 23:32:24,471 autoreload 7632 12120 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:32:26,154 autoreload 8932 11908 Watching for file changes with StatReloader
+INFO 2021-10-20 23:32:28,694 autoreload 8932 11908 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:32:29,944 autoreload 12552 7824 Watching for file changes with StatReloader
+INFO 2021-10-20 23:32:34,635 autoreload 12552 7824 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:32:35,932 autoreload 5308 17720 Watching for file changes with StatReloader
+INFO 2021-10-20 23:32:46,527 autoreload 5308 17720 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:32:47,653 autoreload 2616 16700 Watching for file changes with StatReloader
+INFO 2021-10-20 23:32:53,224 autoreload 2616 16700 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:32:54,388 autoreload 1776 18612 Watching for file changes with StatReloader
+INFO 2021-10-20 23:33:19,262 basehttp 1776 11736 "GET /signup/ HTTP/1.1" 200 3188
+INFO 2021-10-20 23:33:32,944 basehttp 1776 14232 "POST /signup/ HTTP/1.1" 200 3201
+INFO 2021-10-20 23:34:18,597 basehttp 1776 8908 "GET /signup/ HTTP/1.1" 200 3188
+INFO 2021-10-20 23:34:19,970 basehttp 1776 8908 "GET /signup/ HTTP/1.1" 200 3188
+INFO 2021-10-20 23:34:26,752 basehttp 1776 16364 "POST /signup/ HTTP/1.1" 200 3315
+INFO 2021-10-20 23:34:55,974 basehttp 1776 18928 "POST /signup/ HTTP/1.1" 200 3317
+INFO 2021-10-20 23:35:15,466 basehttp 1776 18928 "POST /signup/ HTTP/1.1" 200 3324
+ERROR 2021-10-20 23:36:12,572 log 1776 6436 Internal Server Error: /signup/
+Traceback (most recent call last):
+  File "C:\MY DRIVE\Celebal\env6\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\MY DRIVE\Celebal\env6\lib\site-packages\django\core\handlers\base.py", line 188, in _get_response
+    self.check_response(response, callback)
+  File "C:\MY DRIVE\Celebal\env6\lib\site-packages\django\core\handlers\base.py", line 309, in check_response
+    raise ValueError(
+ValueError: The view Web_app.views.UserSignUpView didn't return an HttpResponse object. It returned None instead.
+ERROR 2021-10-20 23:36:12,573 basehttp 1776 6436 "POST /signup/ HTTP/1.1" 500 67868
+INFO 2021-10-20 23:36:58,037 autoreload 1776 18612 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:37:00,230 autoreload 14012 11300 Watching for file changes with StatReloader
+INFO 2021-10-20 23:37:01,906 autoreload 14012 11300 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:37:03,254 autoreload 7256 12524 Watching for file changes with StatReloader
+INFO 2021-10-20 23:37:04,833 autoreload 7256 12524 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:37:06,316 autoreload 12236 17956 Watching for file changes with StatReloader
+INFO 2021-10-20 23:37:07,861 autoreload 12236 17956 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:37:08,885 autoreload 15568 11280 Watching for file changes with StatReloader
+INFO 2021-10-20 23:37:10,573 autoreload 15568 11280 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:37:11,770 autoreload 15644 10616 Watching for file changes with StatReloader
+INFO 2021-10-20 23:37:13,581 autoreload 15644 10616 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:37:14,694 autoreload 7784 13372 Watching for file changes with StatReloader
+INFO 2021-10-20 23:37:18,323 basehttp 7784 9312 "GET /signup/ HTTP/1.1" 200 3188
+INFO 2021-10-20 23:41:59,041 autoreload 7784 13372 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:42:00,793 autoreload 13036 9720 Watching for file changes with StatReloader
+INFO 2021-10-20 23:42:04,456 autoreload 13036 9720 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:42:05,474 autoreload 6328 3480 Watching for file changes with StatReloader
+INFO 2021-10-20 23:42:10,800 autoreload 6328 3480 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:42:11,992 autoreload 17204 1900 Watching for file changes with StatReloader
+INFO 2021-10-20 23:42:13,447 autoreload 17204 1900 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:42:14,509 autoreload 6708 3940 Watching for file changes with StatReloader
+INFO 2021-10-20 23:42:20,129 autoreload 6708 3940 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:42:21,181 autoreload 14616 13340 Watching for file changes with StatReloader
+INFO 2021-10-20 23:42:23,737 autoreload 14616 13340 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:42:24,953 autoreload 560 2012 Watching for file changes with StatReloader
+INFO 2021-10-20 23:42:28,485 autoreload 560 2012 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:42:30,046 autoreload 1324 6928 Watching for file changes with StatReloader
+INFO 2021-10-20 23:42:32,555 autoreload 1324 6928 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:42:33,536 autoreload 3268 16880 Watching for file changes with StatReloader
+INFO 2021-10-20 23:42:36,029 autoreload 3268 16880 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:42:37,498 autoreload 328 6652 Watching for file changes with StatReloader
+INFO 2021-10-20 23:42:38,852 autoreload 328 6652 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:42:40,032 autoreload 19396 10912 Watching for file changes with StatReloader
+INFO 2021-10-20 23:42:41,493 autoreload 19396 10912 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:42:42,504 autoreload 19392 1052 Watching for file changes with StatReloader
+INFO 2021-10-20 23:42:48,230 autoreload 19392 1052 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:42:49,344 autoreload 16980 10632 Watching for file changes with StatReloader
+INFO 2021-10-20 23:42:50,881 autoreload 16980 10632 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:42:51,931 autoreload 692 13384 Watching for file changes with StatReloader
+INFO 2021-10-20 23:42:54,487 autoreload 692 13384 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:42:55,701 autoreload 9700 18452 Watching for file changes with StatReloader
+INFO 2021-10-20 23:43:02,348 autoreload 9700 18452 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:43:03,816 autoreload 15136 15564 Watching for file changes with StatReloader
+INFO 2021-10-20 23:43:06,551 autoreload 15136 15564 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:43:07,786 autoreload 1328 15464 Watching for file changes with StatReloader
+INFO 2021-10-20 23:43:09,276 autoreload 1328 15464 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:43:10,298 autoreload 7588 8488 Watching for file changes with StatReloader
+INFO 2021-10-20 23:43:33,359 autoreload 7588 8488 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:43:34,418 autoreload 12444 10616 Watching for file changes with StatReloader
+INFO 2021-10-20 23:43:35,717 autoreload 12444 10616 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:43:36,925 autoreload 6428 1880 Watching for file changes with StatReloader
+INFO 2021-10-20 23:43:41,500 autoreload 6428 1880 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:43:42,827 autoreload 316 6556 Watching for file changes with StatReloader
+INFO 2021-10-20 23:43:49,436 autoreload 316 6556 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:43:50,564 autoreload 13408 15180 Watching for file changes with StatReloader
+INFO 2021-10-20 23:44:20,935 autoreload 13408 15180 C:\MY DRIVE\Celebal\Task6\Web_app\managers.py changed, reloading.
+INFO 2021-10-20 23:44:22,161 autoreload 18896 10964 Watching for file changes with StatReloader
+INFO 2021-10-20 23:44:38,112 autoreload 18896 10964 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:44:39,192 autoreload 6708 18876 Watching for file changes with StatReloader
+INFO 2021-10-20 23:45:00,233 autoreload 6708 18876 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-20 23:45:01,365 autoreload 2452 9400 Watching for file changes with StatReloader
+INFO 2021-10-20 23:45:06,741 basehttp 2452 18932 "GET /signup/ HTTP/1.1" 200 3188
+INFO 2021-10-20 23:45:29,746 basehttp 2452 10936 "POST /signup/ HTTP/1.1" 200 35
+INFO 2021-10-20 23:46:34,695 basehttp 2452 15216 "GET /signup/ HTTP/1.1" 200 3188
+INFO 2021-10-20 23:46:56,204 basehttp 2452 16820 "POST /signup/ HTTP/1.1" 200 3324
+INFO 2021-10-20 23:47:24,392 basehttp 2452 1776 "POST /signup/ HTTP/1.1" 200 35
+INFO 2021-10-20 23:49:04,818 autoreload 2452 9400 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:49:05,977 autoreload 684 15220 Watching for file changes with StatReloader
+INFO 2021-10-20 23:52:25,483 basehttp 684 15248 "GET /signup/ HTTP/1.1" 200 3188
+INFO 2021-10-20 23:52:27,040 basehttp 684 4864 "GET /login/ HTTP/1.1" 200 2757
+INFO 2021-10-20 23:52:28,692 basehttp 684 4864 "GET /signup/ HTTP/1.1" 200 3188
+INFO 2021-10-20 23:53:26,760 autoreload 684 15220 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-20 23:53:27,860 autoreload 14852 18896 Watching for file changes with StatReloader
+INFO 2021-10-20 23:54:01,352 autoreload 908 12744 Watching for file changes with StatReloader
+INFO 2021-10-20 23:54:04,815 basehttp 908 2596 "GET /signup/ HTTP/1.1" 200 3216
+INFO 2021-10-20 23:54:40,642 autoreload 9480 6544 Watching for file changes with StatReloader
+INFO 2021-10-20 23:54:49,853 basehttp 9480 15944 "GET /signup/ HTTP/1.1" 200 3216
+INFO 2021-10-20 23:55:11,154 basehttp 9480 15944 "POST /signup/ HTTP/1.1" 200 35
+INFO 2021-10-21 10:14:00,777 autoreload 12188 12216 Watching for file changes with StatReloader
+INFO 2021-10-21 10:23:59,062 basehttp 12188 2756 "GET / HTTP/1.1" 200 2333
+WARNING 2021-10-21 10:24:01,415 log 12188 9084 Not Found: /favicon.ico
+WARNING 2021-10-21 10:24:01,418 basehttp 12188 9084 "GET /favicon.ico HTTP/1.1" 404 3361
+INFO 2021-10-21 10:24:02,067 basehttp 12188 10644 "GET /signup/ HTTP/1.1" 200 3216
+INFO 2021-10-21 10:25:18,951 autoreload 12188 12216 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 10:25:20,675 autoreload 9816 608 Watching for file changes with StatReloader
+INFO 2021-10-21 10:25:39,749 basehttp 9816 6924 "POST /signup/ HTTP/1.1" 200 35
+INFO 2021-10-21 10:25:47,434 basehttp 9816 5612 "GET /signup/ HTTP/1.1" 200 3216
+INFO 2021-10-21 10:28:30,558 basehttp 9816 2488 "POST /signup/ HTTP/1.1" 200 35
+INFO 2021-10-21 10:30:34,648 autoreload 9816 608 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 10:30:36,519 autoreload 14208 9788 Watching for file changes with StatReloader
+INFO 2021-10-21 10:30:39,145 autoreload 14208 9788 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 10:30:40,982 autoreload 13548 13480 Watching for file changes with StatReloader
+INFO 2021-10-21 10:30:53,298 autoreload 13548 13480 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 10:30:54,895 autoreload 8860 5888 Watching for file changes with StatReloader
+INFO 2021-10-21 10:30:56,832 autoreload 8860 5888 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 10:30:58,679 autoreload 7232 16424 Watching for file changes with StatReloader
+INFO 2021-10-21 10:31:01,538 autoreload 7232 16424 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 10:31:03,109 autoreload 16768 18372 Watching for file changes with StatReloader
+INFO 2021-10-21 10:31:07,775 autoreload 16768 18372 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 10:31:09,362 autoreload 1188 11748 Watching for file changes with StatReloader
+INFO 2021-10-21 10:31:10,945 autoreload 1188 11748 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 10:31:12,511 autoreload 12976 1640 Watching for file changes with StatReloader
+INFO 2021-10-21 10:31:21,281 autoreload 12976 1640 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 10:31:23,467 autoreload 5872 548 Watching for file changes with StatReloader
+INFO 2021-10-21 10:31:24,979 autoreload 5872 548 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 10:31:26,598 autoreload 1832 2336 Watching for file changes with StatReloader
+INFO 2021-10-21 10:31:35,472 autoreload 1832 2336 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 10:31:38,265 autoreload 10212 7640 Watching for file changes with StatReloader
+INFO 2021-10-21 10:31:44,173 autoreload 10212 7640 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 10:31:45,911 autoreload 7880 17692 Watching for file changes with StatReloader
+INFO 2021-10-21 10:31:48,659 autoreload 7880 17692 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 10:31:50,406 autoreload 15460 9944 Watching for file changes with StatReloader
+INFO 2021-10-21 10:31:52,968 autoreload 15460 9944 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 10:31:54,624 autoreload 9968 15484 Watching for file changes with StatReloader
+INFO 2021-10-21 10:32:12,839 autoreload 9968 15484 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 10:32:14,682 autoreload 928 7252 Watching for file changes with StatReloader
+INFO 2021-10-21 10:32:22,446 autoreload 928 7252 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 10:32:24,051 autoreload 7256 14748 Watching for file changes with StatReloader
+INFO 2021-10-21 10:32:29,823 autoreload 7256 14748 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 10:32:31,589 autoreload 13984 3236 Watching for file changes with StatReloader
+INFO 2021-10-21 10:32:37,286 autoreload 13984 3236 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 10:32:38,975 autoreload 6212 14276 Watching for file changes with StatReloader
+INFO 2021-10-21 10:32:40,759 autoreload 6212 14276 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 10:32:43,317 autoreload 1688 3420 Watching for file changes with StatReloader
+INFO 2021-10-21 10:32:45,528 basehttp 1688 11268 "GET /signup/ HTTP/1.1" 200 3216
+INFO 2021-10-21 10:33:00,531 basehttp 1688 10764 "POST /signup/ HTTP/1.1" 200 35
+INFO 2021-10-21 10:33:22,109 autoreload 1688 3420 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 10:33:24,129 autoreload 18540 16204 Watching for file changes with StatReloader
+INFO 2021-10-21 10:33:40,765 basehttp 18540 11588 "GET /signup/ HTTP/1.1" 200 3216
+INFO 2021-10-21 10:33:56,520 basehttp 18540 14364 "POST /signup/ HTTP/1.1" 200 35
+INFO 2021-10-21 10:34:42,074 autoreload 18540 16204 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 10:34:43,939 autoreload 16108 5924 Watching for file changes with StatReloader
+INFO 2021-10-21 10:34:48,060 autoreload 16108 5924 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 10:34:49,913 autoreload 12636 9416 Watching for file changes with StatReloader
+INFO 2021-10-21 10:34:53,556 autoreload 12636 9416 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 10:34:55,285 autoreload 908 12784 Watching for file changes with StatReloader
+INFO 2021-10-21 10:35:02,395 autoreload 908 12784 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 10:35:04,233 autoreload 16436 10652 Watching for file changes with StatReloader
+INFO 2021-10-21 10:35:05,771 autoreload 16436 10652 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 10:35:07,536 autoreload 16344 1188 Watching for file changes with StatReloader
+INFO 2021-10-21 10:35:10,454 autoreload 16344 1188 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 10:35:12,822 autoreload 15348 17964 Watching for file changes with StatReloader
+INFO 2021-10-21 10:35:14,911 basehttp 15348 7248 "GET /signup/ HTTP/1.1" 200 3216
+INFO 2021-10-21 10:35:33,914 basehttp 15348 17456 "POST /signup/ HTTP/1.1" 200 35
+INFO 2021-10-21 10:38:37,680 autoreload 15348 17964 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 10:38:39,340 autoreload 16852 2444 Watching for file changes with StatReloader
+INFO 2021-10-21 10:38:43,889 basehttp 16852 11380 "GET /signup/ HTTP/1.1" 200 3216
+INFO 2021-10-21 10:38:54,866 basehttp 16852 8304 "POST /signup/ HTTP/1.1" 200 3343
+INFO 2021-10-21 10:39:56,224 autoreload 16852 2444 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-21 10:39:57,926 autoreload 16348 12936 Watching for file changes with StatReloader
+INFO 2021-10-21 10:40:01,925 autoreload 16348 12936 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-21 10:40:03,639 autoreload 12096 9184 Watching for file changes with StatReloader
+INFO 2021-10-21 10:40:07,866 autoreload 12096 9184 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-21 10:40:09,558 autoreload 13108 6764 Watching for file changes with StatReloader
+INFO 2021-10-21 10:40:14,178 autoreload 13108 6764 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-21 10:40:15,894 autoreload 2600 9696 Watching for file changes with StatReloader
+INFO 2021-10-21 10:40:18,728 autoreload 2600 9696 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-21 10:40:20,470 autoreload 9988 12216 Watching for file changes with StatReloader
+INFO 2021-10-21 10:40:23,618 autoreload 9988 12216 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-21 10:40:26,019 autoreload 4736 18528 Watching for file changes with StatReloader
+INFO 2021-10-21 10:40:31,088 autoreload 4736 18528 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-21 10:40:33,358 autoreload 13556 11112 Watching for file changes with StatReloader
+INFO 2021-10-21 10:40:45,853 autoreload 13556 11112 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-21 10:40:47,478 autoreload 5684 14940 Watching for file changes with StatReloader
+INFO 2021-10-21 10:40:50,330 autoreload 5684 14940 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-21 10:40:52,210 autoreload 8848 10316 Watching for file changes with StatReloader
+INFO 2021-10-21 10:40:55,791 autoreload 8848 10316 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-21 10:40:57,820 autoreload 15032 8716 Watching for file changes with StatReloader
+INFO 2021-10-21 10:41:08,332 autoreload 15032 8716 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-21 10:41:09,969 autoreload 1636 2096 Watching for file changes with StatReloader
+INFO 2021-10-21 10:41:13,628 autoreload 1636 2096 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-21 10:41:15,915 autoreload 10748 1220 Watching for file changes with StatReloader
+INFO 2021-10-21 10:41:22,756 autoreload 10748 1220 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-21 10:41:24,945 autoreload 14492 17796 Watching for file changes with StatReloader
+INFO 2021-10-21 10:41:34,178 autoreload 14492 17796 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-21 10:41:36,003 autoreload 7116 7912 Watching for file changes with StatReloader
+INFO 2021-10-21 10:41:39,056 autoreload 7116 7912 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-21 10:41:40,828 autoreload 18792 9664 Watching for file changes with StatReloader
+INFO 2021-10-21 10:41:45,436 autoreload 18792 9664 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-21 10:41:47,239 autoreload 17960 14040 Watching for file changes with StatReloader
+INFO 2021-10-21 10:41:51,044 autoreload 17960 14040 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-21 10:41:53,025 autoreload 11424 5360 Watching for file changes with StatReloader
+INFO 2021-10-21 10:41:55,881 autoreload 11424 5360 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-21 10:41:58,384 autoreload 10256 12400 Watching for file changes with StatReloader
+INFO 2021-10-21 10:41:59,911 basehttp 10256 18472 "GET /signup/ HTTP/1.1" 200 3216
+INFO 2021-10-21 10:42:15,694 basehttp 10256 16672 "POST /signup/ HTTP/1.1" 200 35
+INFO 2021-10-21 10:43:53,545 autoreload 10256 12400 C:\MY DRIVE\Celebal\Task6\Web_app\managers.py changed, reloading.
+INFO 2021-10-21 10:43:55,249 autoreload 13108 6572 Watching for file changes with StatReloader
+INFO 2021-10-21 10:44:51,668 autoreload 13108 6572 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-21 10:44:54,292 autoreload 7828 18196 Watching for file changes with StatReloader
+INFO 2021-10-21 10:44:54,793 basehttp 7828 9076 "GET /signup/ HTTP/1.1" 200 3216
+INFO 2021-10-21 10:45:10,042 basehttp 7828 15180 "POST /signup/ HTTP/1.1" 200 35
+INFO 2021-10-21 10:45:15,752 basehttp 7828 15180 "GET /signup/ HTTP/1.1" 200 3216
+INFO 2021-10-21 10:45:16,961 basehttp 7828 10036 "GET /signup/ HTTP/1.1" 200 3216
+INFO 2021-10-21 10:45:56,269 autoreload 7796 14272 Watching for file changes with StatReloader
+INFO 2021-10-21 10:52:01,206 autoreload 8236 18128 Watching for file changes with StatReloader
+INFO 2021-10-21 10:52:02,861 basehttp 8236 9436 "GET /signup/ HTTP/1.1" 200 3216
+INFO 2021-10-21 10:52:04,520 basehttp 8236 9436 "GET /signup/ HTTP/1.1" 200 3216
+INFO 2021-10-21 10:52:06,137 basehttp 8236 9436 "GET /signup/ HTTP/1.1" 200 3216
+INFO 2021-10-21 10:52:27,814 basehttp 8236 8544 "POST /signup/ HTTP/1.1" 200 35
+INFO 2021-10-21 11:05:33,402 basehttp 8236 9456 "GET /signup/ HTTP/1.1" 200 3216
+INFO 2021-10-21 11:05:45,798 basehttp 8236 9456 "POST /signup/ HTTP/1.1" 200 35
+INFO 2021-10-21 11:47:49,671 autoreload 8236 18128 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 11:47:52,476 autoreload 5888 7628 Watching for file changes with StatReloader
+INFO 2021-10-21 11:47:55,557 autoreload 5888 7628 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 11:47:57,384 autoreload 18648 14240 Watching for file changes with StatReloader
+INFO 2021-10-21 11:48:08,347 autoreload 18648 14240 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 11:48:10,236 autoreload 9632 3044 Watching for file changes with StatReloader
+INFO 2021-10-21 11:48:24,323 autoreload 9632 3044 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 11:48:26,024 autoreload 15748 7292 Watching for file changes with StatReloader
+INFO 2021-10-21 11:48:31,002 autoreload 15748 7292 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 11:48:32,708 autoreload 7220 18408 Watching for file changes with StatReloader
+INFO 2021-10-21 11:48:38,757 autoreload 7220 18408 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 11:48:40,670 autoreload 6040 15692 Watching for file changes with StatReloader
+INFO 2021-10-21 11:48:49,843 autoreload 6040 15692 C:\MY DRIVE\Celebal\Task6\Web_app\forms.py changed, reloading.
+INFO 2021-10-21 11:48:51,662 autoreload 12472 2156 Watching for file changes with StatReloader
+INFO 2021-10-21 11:49:29,394 autoreload 12472 2156 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-21 11:49:31,229 autoreload 12848 976 Watching for file changes with StatReloader
+INFO 2021-10-21 11:49:47,636 basehttp 12848 17640 "GET /signup/ HTTP/1.1" 200 3216
+INFO 2021-10-21 11:50:03,413 basehttp 12848 7344 "POST /signup/ HTTP/1.1" 200 35
+INFO 2021-10-21 11:54:08,972 autoreload 12848 976 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-21 11:54:10,874 autoreload 4556 5356 Watching for file changes with StatReloader
+INFO 2021-10-21 11:54:14,862 autoreload 4556 5356 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-21 11:54:16,761 autoreload 1260 12980 Watching for file changes with StatReloader
+INFO 2021-10-21 11:54:19,702 autoreload 1260 12980 C:\MY DRIVE\Celebal\Task6\Web_app\views.py changed, reloading.
+INFO 2021-10-21 11:54:21,425 autoreload 8532 9520 Watching for file changes with StatReloader
+INFO 2021-10-21 11:54:38,778 basehttp 8532 7048 "GET /signup/ HTTP/1.1" 200 3216
+INFO 2021-10-21 11:54:55,689 basehttp 8532 1848 "POST /signup/ HTTP/1.1" 200 35
+INFO 2021-10-21 11:55:02,303 basehttp 8532 13172 "GET /signup/ HTTP/1.1" 200 3216
