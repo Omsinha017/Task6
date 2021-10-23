@@ -4,6 +4,12 @@
 {% block loginblock %}
        
 
+{% if error %}
+
+<h4>{{ error }}</h4>
+    
+{% endif %}
+    
 
 <form method="post">
 {% csrf_token %}
@@ -18,7 +24,6 @@
 <input type="submit" value="login">
 </form>
 
-{# Assumes you setup the password_reset view in your URLconf #}
 <p><a href="{% url 'forgot' %}">Lost password?</a></p>
 
 {% endblock loginblock %}
